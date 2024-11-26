@@ -15,7 +15,7 @@ const ReCaptcha = ({ onVerify }) => {
   return (
     <div className="recaptcha-container">
       <ReCAPTCHA
-        sitekey="6Lcx24oqAAAAAN7QQKBoExgywrVPLmNXmhKmLvy- "     
+        sitekey="6Lcx24oqAAAAAN7QQKBoExgywrVPLmNXmhKmLvy-"     
         onChange={handleVerify}
       />
     </div>
