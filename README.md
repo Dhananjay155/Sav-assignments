@@ -4,7 +4,7 @@ Welcome to Sav.com-Assign ,This is a single-page React application that displays
 
 
 ## Deplolyed App
-Netlify: https://sav-assignments.vercel.app/
+vercel: https://sav-assignments.vercel.app/
 
 ## Features
 - **Pagination**: Displays items with client-side pagination (10 items per page).
