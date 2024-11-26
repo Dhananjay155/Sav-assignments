@@ -47,7 +47,7 @@ const App = () => {
           <Pagination
             currentPage={currentPage}
             totalPages={Math.ceil(filteredItems.length / itemsPerPage)}
-            onPageChange={setCurrentPage}
+            onPageChange={setCurrentPage}    
           />
         </>
       )}
